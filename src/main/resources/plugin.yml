@@ -1,0 +1,6 @@
+main: eu.reformedstudios.apiexample.ReformedApiExample
+name: ReformedApiExample
+version: '${project.version}'
+website: reformedstudios.eu
+author: Reformed
+api-version: 1.18
