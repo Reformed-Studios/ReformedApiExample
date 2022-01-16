@@ -18,6 +18,10 @@
             <id>purpur</id>
             <url>https://repo.purpurmc.org/snapshots</url>
         </repository>
+        <repository>
+            <id>reformed-repo</id>
+            <url>https://repo.reformedstudios.eu/releases</url>
+        </repository>
     </repositories>
 
     <build>
