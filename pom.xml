@@ -50,7 +50,7 @@
         <dependency>
             <groupId>eu.reformedstudios</groupId>
             <artifactId>reformed-core-api</artifactId>
-            <version>0.1.2</version>
+            <version>1.0.8</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
